@@ -1,0 +1,26 @@
+# Author: Devis Lucato, https://github.com/dluc
+
+MAIN_BRANCH = "main"
+CSV_FILE = "prs.csv"
+JSON_FILE = "prs.json"
+
+TEAM_MEMBERS = [
+    "dluc",
+]
+
+FIELDS = [
+    "number",
+    "state",
+    "closed",
+    "isDraft",
+    "title",
+    "branch",
+    "createdAt",
+    "updatedAt",
+    "mergedAt",
+    "closedAt",
+    "author",
+    "assignees",
+    "labels",
+    "url",
+]

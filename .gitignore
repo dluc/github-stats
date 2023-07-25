@@ -1,0 +1,12 @@
+.env
+config.py
+repo
+repo/*
+.vscode
+__pycache__
+.mypy_cache
+*.log
+prs.csv
+prs.json
+report.html
+report.md
