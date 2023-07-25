@@ -12,12 +12,11 @@ about your GitHub repository pull requests.
 * Internal PRs open for more than 10 days
 * PRs without assignees
 
-![image](https://github.com/dluc/github-stats/assets/371009/66a07b5c-6271-4515-b753-1a1f4614db32)
-![image](https://github.com/dluc/github-stats/assets/371009/eb94b7b1-8762-43aa-a691-320738e6906b)
-![image](https://github.com/dluc/github-stats/assets/371009/15ce1c3a-7772-4755-ae1e-d732938acc19)
-![image](https://github.com/dluc/github-stats/assets/371009/6a91ef59-5fa5-4ee8-8060-4533a8ca0d9d)
-![image](https://github.com/dluc/github-stats/assets/371009/952a9f6c-db31-41c5-82c1-b53436a465be)
-
+![image](https://github.com/dluc/github-stats/assets/371009/2d6802ac-fa8c-4c07-889f-0e765e6d40b2)
+![image](https://github.com/dluc/github-stats/assets/371009/44179a2e-dad0-48ed-844d-e8b7ef79b593)
+![image](https://github.com/dluc/github-stats/assets/371009/0ef2d6e2-d9d5-42a1-afdf-a52c27ae9c54)
+![image](https://github.com/dluc/github-stats/assets/371009/fc00492a-f659-47a2-8078-dd853359c403)
+![image](https://github.com/dluc/github-stats/assets/371009/5c2b957c-1a56-4234-a61d-694186a1370f)
 
 # Setup
 
